@@ -1,0 +1,42 @@
+Organizar Docencia
+Organizar Derecho
+Actualizar CV web
+Poner anuncios
+Aliexpress letyshop
+
+
+Yamar al 012 pedir cita con orientadora
+
+
+Terminar las páginas
+Submenús dentro de cada página - Administrativas - Informáticas
+
+Submenú en habilidades, profesionales - personales
+
+Descripción de habilidades, buscarlas en internet, tipo puntualidad, etc.. - habilidades personales
+Se ponen en cada una de las secciones, por ejemplo habilidades_docentes.html
+
+farmacia e icse
+
+Hacer en Canva CV distintos y ponerlos a descargar
+
+Experiencia -  especificar años funciones 
+
+Aspectos legales
+
+
+Docente 		<i class="fa fa-id-card-o" aria-hidden="true"></i>  <i class="fa fa-graduation-cap" aria-hidden="true"></i>
+Azul		RGB:	66 133 244
+Administrador	<i class="fa fa-briefcase" aria-hidden="true"></i>
+rojo		RGB:	219 68 55
+Informatica	<i class="fa fa-laptop" aria-hidden="true"></i>
+Amarillo		RGB:	244 180 0
+GENERIAL	<i class="fa fa-user-circle-o" aria-hidden="true"></i>
+Verde		RGB:	15 157 88
+
+DESCARGAR	<i class="fa fa-download">
+
+docente
+administrativo
+informatico
+general

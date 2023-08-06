@@ -1,0 +1,149 @@
+@font-face{
+    font-family: tiza;
+    src: url(../font/DkCrayonCrumble-ddll.ttf);
+}
+.tiza{
+    font-family: 'Times New Roman', Times, serif;
+    color: ghostwhite;
+}
+
+.tiza2{
+    font-family: tiza;
+    color: ghostwhite;
+}
+
+
+@font-face{
+    font-family: gruesa;
+    src: url(../font/tiza.ttf);
+}
+.gruesa{
+    font-family: gruesa;
+    color: ghostwhite;
+}
+.acceso{
+    /* text-align: center; */
+    background: #3e9025;
+	color: #fff;
+	border-color: #f9fd05;
+	animation: tiendaNew 2.72s ease infinite;
+	transform-origin: 50% 50%;
+	-webkit-transition: 0.5s ease-out;
+	-moz-transition: 0.5s ease-out;
+	-o-transition: 0.5s ease-out;
+	transition: 0.5s ease-out;
+	text-align: center;
+	font-size: 13px;
+	padding: 10px;
+	margin-bottom: 15px;
+	clear: both;
+	display: block;
+	width: 100%;
+	-webkit-border-radius: 6px;
+	-moz-border-radis: 6px;
+	border-radius: 6px;
+    font-weight: bold;
+}
+
+
+.acceso:hover{
+	background:#bbcf02;
+	color: rgb(18, 138, 2);
+}
+
+.horas{ 
+	font-weight: bold;
+	color: rgb(15, 157, 88); 
+}
+
+.nivel{ 
+	font-weight: bold;
+	color: rgb(66, 133, 244); 
+}
+
+.certificado{ 
+	font-weight: bold;
+	color: rgb(219, 68, 55); 
+}
+
+.habilidades{ 
+    color: #4285F4;
+}
+
+.programacion{  
+    color: #F4B400;
+}
+
+.administracion{   
+    color: #DB4437;
+}
+
+.docencia{   
+    color: #4285F4;
+}
+
+.leyes{ 
+	margin-left: 64px; 
+	font-family: 'Times New Roman', Times, serif;
+	
+	font-size: 24px;
+}
+
+.leyes li{ 
+	margin-left: 64px; 
+	font-family: 'Times New Roman', Times, serif;
+	
+	font-size: 24px;
+}
+
+.leyes > div{ 
+	margin-left: 64px; 
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: bolder;
+	font-size: 48px;
+}
+
+.enunciado{ 
+	margin-left: 64px; 
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: bolder;
+	font-size: 30px;
+}
+
+.subrayado{
+	text-decoration-line: underline;
+}
+
+.negrita{
+	font-weight: bolder;
+}
+
+.cursiva{
+	font-style:italic;
+	color: #4285F4;
+}
+
+.agradecido{
+    /* text-align: center; */
+    background: #3e9025;
+	color: #fff;
+	border-color: #f9fd05;
+	animation: tiendaNew 2.72s ease infinite;
+	transform-origin: 50% 50%;
+	-webkit-transition: 0.5s ease-out;
+	-moz-transition: 0.5s ease-out;
+	-o-transition: 0.5s ease-out;
+	transition: 0.5s ease-out;
+	text-align: center;
+	font-size: 30px;
+	padding: 10px;
+	margin-bottom: 15px;
+	clear: both;
+	display: block;
+	width: 100%;
+	-webkit-border-radius: 6px;
+	-moz-border-radis: 6px;
+	border-radius: 6px;
+    font-weight: bold;
+	margin-left: 64px;
+}

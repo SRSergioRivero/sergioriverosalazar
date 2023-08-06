@@ -1,0 +1,38 @@
+<i alt="Costa Rica Flag" class="em em-flag-cr"></i>   &nbsp;
+<i alt="El Salvador Flag" class="em em-flag-sv"></i>  &nbsp;
+<i alt="Guatemala Flag" class="em em-flag-gt"></i>    &nbsp;
+<i alt="Honduras Flag" class="em em-flag-hn"></i>     &nbsp;
+<i alt="Nicaragua Flag" class="em em-flag-ni"></i> 
+
+<i alt="Colombia Flag" class="em em-flag-co"></i>					&nbsp;
+<i alt="Cuba Flag" class="em em-flag-cu"></i>					&nbsp;
+<i alt="Ecuador Flag" class="em em-flag-ec"></i>					&nbsp;
+<i alt="U.S. Outlying Islands Flag" class="em em-flag-um"></i>	&nbsp;
+<i alt="Mexico Flag" class="em em-flag-mx"></i>	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i alt="Panama Flag" class="em em-flag-pa"></i>					&nbsp;
+<i alt="Peru Flag" class="em em-flag-pe"></i>
+
+<i alt="Bolivia Flag" class="em em-flag-bo"></i>				&nbsp;
+<i alt="Canada Flag" class="em em-flag-ca"></i>					&nbsp;
+<i alt="Puerto Rico Flag" class="em em-flag-pr"></i>			&nbsp;
+<i alt="Dominican Republic Flag" class="em em-flag-do"></i>		&nbsp;
+<i alt="Venezuela Flag" class="em em-flag-ve"></i>
+
+<i alt="Chile Flag" class="em em-flag-cl"></i>		&nbsp;&nbsp;
+<i alt="Paraguay Flag" class="em em-flag-py"></i>	&nbsp;
+<i alt="Argentina Flag" class="em em-flag-ar"></i>	&nbsp;
+<i alt="Brazil Flag" class="em em-flag-br"></i>		&nbsp;
+<i alt="Uruguay Flag" class="em em-flag-uy"></i>		
+
+<i alt="Canary Islands Flag" class="em em-flag-ic">  </i> &nbsp;&nbsp;
+<i alt="Ireland Flag" class="em em-flag-ie" > </i>&nbsp;&nbsp;
+<i alt="Iceland Flag" class="em em-flag-is"> </i>&nbsp;&nbsp;
+<i alt="Portugal Flag" class="em em-flag-pt"> </i>&nbsp;&nbsp;
+<i alt="United Kingdom Flag" class="em em-gb"></i>
+
+<i alt="Germany Flag" class="em em-de"> </i>&nbsp;&nbsp;&nbsp;
+<i alt="Spain Flag" class="em em-flag-ea"> </i>&nbsp;&nbsp;
+<i alt="France Flag" class="em em-fr"> </i>&nbsp;&nbsp;
+<i alt="Equatorial Guinea Flag" class="em em-flag-gq"></i>&nbsp;&nbsp;
+<i alt="Italy Flag" class="em em-flag-it"></i>
